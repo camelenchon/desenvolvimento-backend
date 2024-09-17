@@ -1,0 +1,4 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "java.compile.nullAnalysis.mode": "automatic"
+}
